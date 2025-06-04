@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently Working on HighHills Project
+Not a professional developer, just enjoy coding in my spare time.
 
 
 ## 🌐 Socials:
